@@ -194,3 +194,9 @@ I do not really understand mode.
 One open question is how the client may decide what is considered a trace and how.
 
 The ontology gives the terminology, which should be self-descriptive about what it wants to capture, including examples.
+
+## Mind Graph
+
+Maybe help me think about this concept of mind graph.
+
+Are we basically capturing and evolving mind graphs?
