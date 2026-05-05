@@ -100,3 +100,11 @@ The model is allowed to capture some latent observations, like the stewardship, 
 It does not need to reveal them.
 
 This is just like what we want to build.
+
+## Philosophy Draft
+
+I somehow still do not like the philosophy doc.
+
+It should read like an article and still cover the main aspects.
+
+Think about paper writing.
