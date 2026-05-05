@@ -144,3 +144,15 @@ I do kind of like the fragment primitive.
 How do I imagine someone changing the way they muse or make changes with a system like this?
 
 Imagine they use ChatGPT to talk to our service. What is the user story here?
+
+## Ack-Registered Mechanisms
+
+I have a ChatGPT project where every response must be exactly one emoji, with no exception, unless the user clearly says "YOU ARE FREE" in all caps. Then the model can respond freely for one round and immediately goes back to one-emoji responses.
+
+This kind of ack-registered mechanism is fairly powerful.
+
+I like the phrase: "helps them preserve, branch, revisit, and reshape attention before it collapses into advice, action, or self-analysis."
+
+Advice, action, or self-analysis is not where the value lives.
+
+I think "fragment -> branch -> return -> connection -> pattern -> choice" is overthinking and unnecessarily complex.
