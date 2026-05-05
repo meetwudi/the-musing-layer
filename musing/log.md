@@ -162,3 +162,15 @@ I think "fragment -> branch -> return -> connection -> pattern -> choice" is ove
 Another thing is to combat slop.
 
 AI's role in this system is to provide silent stewardship, but it should really hold back 99% of the things in its own head, or graph.
+
+## API Contract Reframing
+
+The system's main work is 90% observation and 10% preservation. Preservation is easy.
+
+Observation includes self introspection and evolution.
+
+The system does not give the analysis. GPT would use the system to explore and compile analysis.
+
+The system is a pure knowledge system about the becoming.
+
+I am still not very settled on fragments. It makes sense that they are raw inputs, but I am not sure about the rest.
