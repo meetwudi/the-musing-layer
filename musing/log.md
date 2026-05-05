@@ -174,3 +174,23 @@ The system does not give the analysis. GPT would use the system to explore and c
 The system is a pure knowledge system about the becoming.
 
 I am still not very settled on fragments. It makes sense that they are raw inputs, but I am not sure about the rest.
+
+## Ontology and Assertions
+
+The observation thing feels over-engineered.
+
+An observation is made, and it can be described by ontology. We can use RDF, or an RDF mindset, to describe it.
+
+The terminology is what we consider to be things the system cares about.
+
+Changing the ontology is dynamic. It evolves what it cares about as well.
+
+Over-specifying the core ontology can lead to early bias.
+
+If using the RDF mindset of terminology and assertions, then the relation piece is there as well.
+
+I do not really understand mode.
+
+One open question is how the client may decide what is considered a trace and how.
+
+The ontology gives the terminology, which should be self-descriptive about what it wants to capture, including examples.
