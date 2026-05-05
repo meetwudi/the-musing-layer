@@ -175,3 +175,4 @@ The moat is not inference.
 The moat is memory and sensemaking.
 
 The moat is the evolving craft layer: the place where people remember what they care about, how they are changing, and how to change the way change happens.
+

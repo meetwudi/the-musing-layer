@@ -1,4 +1,6 @@
-# My Musing
+# Musing Log
+
+## My Musing
 
 I am not trying to constantly ask "what's next."
 
@@ -63,3 +65,27 @@ But it should not decide who someone becomes.
 It should help with reflection, digestion, and craft.
 
 It should help humans change how change happens.
+
+## Later Notes
+
+"Remember the shape of my becoming" and "help me stay in contact with what I am becoming" are so good.
+
+Via a practical lens, I do want to make this an MCP interface that integrates with major AI platforms, so a clean contract is needed there.
+
+I believe in making it inspectable and editable.
+
+I think we should define:
+
+1. A core ontology that captures the things that we by default observe.
+2. A way for the system to evolve its own ontology on top of the core ontology.
+
+That evolution should have a way to stabilize, given AI really likes adding things.
+
+I also think AI's observations and latent stewardships should be maintained, so we can see a chain or graph of thinking and connections. It is interesting to explore and get inspired by, but otherwise no unsolicited advice. I really have people giving me unsolicited advice.
+
+I do not think we should apply a product lens too early.
+
+Latent stewardship should be backed by a robust understanding of someone's activities, by connecting the dots, without revealing judgement.
+
+There is a question of how these things are connected, because they are at different abstraction levels.
+
