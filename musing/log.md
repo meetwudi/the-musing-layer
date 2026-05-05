@@ -108,3 +108,11 @@ I somehow still do not like the philosophy doc.
 It should read like an article and still cover the main aspects.
 
 Think about paper writing.
+
+## Psychology and Therapy Question
+
+I am thinking whether there is a psychology / therapy aspect of this.
+
+Can you look up some papers and tell me?
+
+Do some research.
