@@ -116,3 +116,19 @@ I am thinking whether there is a psychology / therapy aspect of this.
 Can you look up some papers and tell me?
 
 Do some research.
+
+## Expressive Writing, Branching, and Rumination
+
+I am interested in what the key elements of expressive writing are.
+
+As I am musing here, I realized how everything in a chat is linear, but I actually want to branch off here and there.
+
+The rumination point is very interesting, and I wonder what are ways to offload them.
+
+I do not think musing is just about self reflection. It is open ended, intentionally broad.
+
+The idea of paying attention to recursive analysis makes a lot of sense.
+
+I do not think I am positioning a tool first of all, and certainly not in the therapy or mental health space.
+
+I was more just thinking about the headspace someone is in when they are musing, and how the stewardship can impact the way those musings, or changes, go.
