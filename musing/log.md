@@ -156,3 +156,9 @@ I like the phrase: "helps them preserve, branch, revisit, and reshape attention 
 Advice, action, or self-analysis is not where the value lives.
 
 I think "fragment -> branch -> return -> connection -> pattern -> choice" is overthinking and unnecessarily complex.
+
+## Anti-Slop Stewardship
+
+Another thing is to combat slop.
+
+AI's role in this system is to provide silent stewardship, but it should really hold back 99% of the things in its own head, or graph.
