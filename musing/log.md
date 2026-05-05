@@ -132,3 +132,7 @@ The idea of paying attention to recursive analysis makes a lot of sense.
 I do not think I am positioning a tool first of all, and certainly not in the therapy or mental health space.
 
 I was more just thinking about the headspace someone is in when they are musing, and how the stewardship can impact the way those musings, or changes, go.
+
+## Primitive
+
+I wonder if we were to pick one primitive out of all these, what would it be?
