@@ -136,3 +136,11 @@ I was more just thinking about the headspace someone is in when they are musing,
 ## Primitive
 
 I wonder if we were to pick one primitive out of all these, what would it be?
+
+## Changing How Someone Muses
+
+I do kind of like the fragment primitive.
+
+How do I imagine someone changing the way they muse or make changes with a system like this?
+
+Imagine they use ChatGPT to talk to our service. What is the user story here?
