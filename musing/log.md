@@ -89,3 +89,14 @@ Latent stewardship should be backed by a robust understanding of someone's activ
 
 There is a question of how these things are connected, because they are at different abstraction levels.
 
+## Harness Rule
+
+We use harness here.
+
+Right now this is just a musing folder. When we chat, capture these thinkings.
+
+The model is allowed to capture some latent observations, like the stewardship, in a subfolder, maybe just `musing/__latent_stewardship`.
+
+It does not need to reveal them.
+
+This is just like what we want to build.
